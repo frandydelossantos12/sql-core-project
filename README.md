@@ -23,4 +23,3 @@ información de ventas y sirve como base para procesos de ETL y análisis en Pow
 Esta base de datos forma parte de un portafolio de datos que incluye:
 - Un pipeline ETL para limpieza y transformación
 - Un dashboard en Power BI para análisis ejecutivo
-``
